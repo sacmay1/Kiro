@@ -11,4 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
-]
+]   {
+        "device_id": "f78cc127c1c2919e",
+        "key": "codmgr",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+}
+
